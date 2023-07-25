@@ -1,0 +1,65 @@
+body {background-color: #90C7E3;
+	color: white; margin: 0; align-items: center;
+	font-family: Verdana, Arial, sans-sarif; }
+header {background-image: url(WinterHoodie1.jpg); background-repeat: no-repeat; background-position: center;  background-color: black;
+	font-family: Georgia, serif; padding: 3em}
+header a:link { color: white; }
+header a:visited { color: #ff66b3; }
+header a:hover { color: #90C7E3; }
+h1 {text-align: center; font-size: 1.5em;color: #DCDCDC ; border-style: double; background-color: black; }
+nav { text-align: center; font-size: 1.2em; }
+nav a {text-decoration: none}
+nav a:link { color: #7fe61e; }
+nav a:visited { color: #eaedd6; }
+nav a:hover { color: #A52A2A; }
+nav ul{display: flex ; padding-left: 0; flex-direction: row; margin: 0; }
+h2 {color: #ff66b3; text-align: center;
+	font-family: Georgia, serif; } 
+h3 {font-family: Georgia, serif; color: #ebde26; }
+main {display: block; padding-top: 1em; padding-bottom: 1em; padding-left: 1em; padding-right: 1em; }
+dt {font-weight: bold;
+	color: #1e56d6; }
+.MG {color: #5fe886;
+	font-size: 1.2em;} 
+.Raynebow {color: #ff66b3;
+	font-size: 1.5em;}
+footer  {font-size: .70em; font-style: italic;
+	text-align: center; padding: 1em }
+#wrapper {margin: auto; width: 80%; }
+#LilliPic {background-size: 100% 100% ;  background-image: url(Lilliana.jpeg) ; background-position:center; height: 400px; width: 300px;}
+#CieraPic {background-size: 100% 100% ; background-image: url(Mom.jpeg) ; background-position:center; height: 400px; width: 300px; }
+#RyanPic {background-size: 100% 100% ; background-image: url(Dad.jpeg) ; background-position: center; height: 400px; width: 300px;}
+section { padding-left: .5em; padding-right: .5em; }
+nav li {padding-bottom: .5em; padding-top: .5em; padding-left: 1em; padding-right: 1em; width: 100%; border-bottom: 1px solid; }
+#mobile {display: inline}
+#desktop {display: none; }
+.shop { background-color: #F4F4F4; margin: 1em;}
+	img { float: center; padding: 1em; height: 300px; width: 300px; }
+	form { float: center; }
+table { margin: auto; width: 90%; border: 1px #3399CC; border-collapse: collapse; }
+td { padding: 5px; border: 1px #3399CC; text-align: center; }
+.text {text-align: left; color: white }
+th { padding: 5px; border: 1px #3399CC; }
+tr:nth-of-type(even) {background-color: black }
+form {display: flex; flex-direction: column; padding-left: 1em; width: 80%; }
+input { margin-bottom: .5em; }
+textarea { margin-bottom: .5em; }
+@media (min-width: 600px) {
+	form {display: grid ; width: 60%; grid-gap: 1em; grid-template-columns: 10em 1fr; }
+	input[type="submit"] { grid-column: 2 / 3; width: 9em; }
+	h1 {font-size: 2em; letter-spacing: .25em;}
+	nav ul {display: flex; flex-direction: row; justify-content: space-around; padding-right: 2em; }
+	nav li {width: 12em; border-bottom: none; }
+	section {padding-left: 2em; padding-right: 2em; }
+	#flow {display: flex; flex-direction: row; }
+	#mobile {display: none; }
+	#desktop {display: inline; }
+	#LilliPic {background-size: 100% 100%; }
+	#CieraPic {background-size: 100% 100%; }
+	#RyanPic {background-size: 100% 100%; }
+}
+@media (min-width: 1024px){
+	body {background-image: linear-gradient(to bottom, black 20%, #3399CC 60%, black 100%); }
+	nav ul {padding-right: 10%; padding-left: 10%; }
+	#wrapper {margin: auto; width: 80%; }
+}

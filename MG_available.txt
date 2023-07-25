@@ -1,0 +1,61 @@
+<DOCTYPE html>
+<html lang ="en">
+	<title> RayneBow Farms LLC:: Microgreens Available</title>
+	<link rel="stylesheet" href="RayneBowGreens.css">
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+<header><h1><b>Microgreens Available at RayneBowFarms LLC</b></h1></header>
+<nav>
+<ul>
+<li><a href="RayneBow_Greens_Index.html"> Home</a></li> &nbsp; 
+<li><a href="MG_availabe.html"> Full Microgreen Availability</a></li> &nbsp;
+<li><a href="Upcoming_Harvests.html"> Upcoming Harvests</a></li> &nbsp;
+<li><a href="About_Us_Greens.html"> About Us</a></li> &nbsp;
+<li><a href="Recurring_Freshness.html"> Recurring Freshness</a></li>
+ </ul>
+</nav>
+<div id="wrapper">
+<div id="familytees">
+</div>
+<meta charset="utf-8">
+</head>
+<body>
+<main>
+
+<h2> Current Microgreens Available and Their Nutritional Description/Flavor Profile</h2>
+	<h3> Speckled Pea Microgreens </h3>
+	<p><span class="Raynebow">Nutritional Benefits:</span class="Raynebow"> Speckled pea microgreens are a good source of vitamins A, C, and K. They also contain essential minerals like iron and potassium, as well as dietary 	fiber. These microgreens are known for their antioxidant properties and potential anti-inflammatory benefits. </p>
+	<p><span class="Raynebow">Flavor Profile:</span class="Raynebow"> Speckled pea microgreens have a mild, fresh flavor with hints of sweetness similar to fresh peas. They add a delicate crunch to dishes. </p>
+
+
+<h2>Who is RayneBow Farms LLC?</h2>
+	<div id="LilliPic"></div>
+	<h3>Lilliana (Lilli) Rayne</h3>
+	<p> Daughter to both Ryan Rutledge and Ciera Burgess, I am the leader of the name behind <span class="Raynebow">RayneBow Greens</span class="Raynebow">! Though I was only born in 2022, I have a lot of influence
+	in the decision-making of this "growing" company. I get to learn how to grow the microgreens with mom and dad and occasionally cohearse a couple pinches for a snack!</p>
+	<div id="CieraPic"></div>
+	<h3>Ciera Burgess</h3>
+	<p>Mother to Lilli and owner/operator of <span class="Raynebow">RayneBow Farms LLC</span class="Raynebow">, has set out on a mission to create locally grown, nutrient dense microgreens with the utmost importance on freshness and shelf-life. Ciera wishes to fight the issues her family and many other Hoosiers face each week of produce shipped from other states going bad within days of purchasing them at local stores. Her goal is to provide the Hamilton County community with nutrient dense microgreens that can be produced year round and delivered directly to your door. </p>
+	<div id="RyanPic"></div>
+	<h3>Ryan Rutledge</h3>
+	<p>Father to Lilli and cofounder to <span class="Raynebow">RayneBow Farms LLC</span class="Raynebow">, has a gnack for growing absolutely superb microgreens through the process of germinating, concentrated lighting, climate control, and steady upkeep of the plants. Ryan has the vision to help as many people as he can with more nutritious options that will preserve for longer than most local grocery store products. His goal is to continue expanding the growing process and customer base for the microgreens to eventually be able to provide the service to all of Indiana, local hospitals, local schools, and other priority locations. </p>
+
+
+
+
+
+<div>
+<strong>RayneBow Farms LLC</strong><br>
+Fishers, Indiana 46038<br>
+317-999-9999<br>
+</div>
+</main>
+</body>
+</div>
+<footer>
+<small><i>Copyright © 2023 RayneBow Farms LLC<br>
+RayneBowGreens@gmail.com</i>
+</small>
+</footer>
+</html>
